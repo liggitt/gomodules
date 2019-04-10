@@ -1,3 +1,11 @@
+# go modules
+
+This is an overview of using [go modules](https://github.com/golang/go/wiki/Modules),
+the differences between it and `$GOPATH`-based development, and some of the tools
+and techniques it makes available to go developers.
+
+This content is also available as [a video recording](https://www.youtube.com/watch?v=OrMA16ASz2U&t=40s).
+
 - [$GOPATH: the old way](#gopath-the-old-way)
   - [Building](#building)
     - [What happens](#what-happens)
